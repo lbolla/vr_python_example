@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo I AM GOING TO DIE
+exit 1
